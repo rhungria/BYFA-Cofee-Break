@@ -1,0 +1,27 @@
+Möte om LaTex:
+
+Steg för steg
+
+- Skapa ett konto på GitHub.com (KTH har ett konto GitHub for Entreprises)
+
+- Skapa en ny "repository" i GitHub
+
+--> Gå in i Repository --> Collaborators --> Add collaborators
+
+--> Installera GitHub Desktop --> Logga in --> Fetch origin --> Tryck på History (kontrollera om ändringar har skett)
+
+--> Installer tre editorer:
+ 
+- Brackets
+- Atom
+- VS code
+
+--> Öppna en av filerna skapade i GitHub --> Redigera i ett av textprogrammen --> Öppna GitHub Desktop -- > Kommentera i "Summary" och "Commit to Master"
+
+Nästa steg:
+
+--> Installera LaTex
+
+
+
+
