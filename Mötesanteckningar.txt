@@ -22,12 +22,35 @@ Nästa steg:
 
 --> Installera LaTex
 
+# LaTex
 
-Installerar Tex Live
+## Installera MikTex
 
-Ladda ned install-tl-windows.exe (15 mb)
+## Installera paket via package manager.
 
-Installera TexShop
+Package manager ligger under: start->Miktex->maintenance->package manager
+
+
+# Editera
+Använd TexWorks
+
+
+#Konvertera
+Använd Pandoc
+
+Konvertera filer via cmd
+
+
+## Installera Pandoc.
+
+
+Nästa steg:
+
+--> Hitta mall för PM på KTH-webben och använd som förlaga för en LaTex-fil.
+
+
+
+
 
 
 
