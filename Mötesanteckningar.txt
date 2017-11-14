@@ -23,5 +23,13 @@ Nästa steg:
 --> Installera LaTex
 
 
+Installerar Tex Live
+
+Ladda ned install-tl-windows.exe (15 mb)
+
+Installera TexShop
+
+
+
 
 
